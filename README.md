@@ -1,1 +1,4 @@
-This is our conflict
+
+# Practice-conflict-repo - new change!!  
+
+main
